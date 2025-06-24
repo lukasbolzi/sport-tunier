@@ -1,3 +1,7 @@
+### Very import for github deploy!!
+There must be a .nojekyll file in the gh-pages repository.
+For github to access _app/..
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
